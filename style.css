@@ -1,0 +1,20 @@
+.inverted {
+  background-color: black;
+  color: white;
+}
+
+#circle {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1 {
+  transition: .5s;
+}
+
+h1:hover {
+  color: red;
+  font-size: 250%;
+}
