@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+  transition: 1s;
+}
+
+h1:hover{
+  color: red;
+  font-size: 250%;
+}
+
+.inverted{
+  background-color: black;
+  color: white;
+}
+
+#circle{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  border-radius: 70%;
+}
